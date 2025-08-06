@@ -2,6 +2,12 @@
 
 
 
+section {
+     background-image: url("images/sunset.png");
+}
+
+
+
 :root{
     --branco: white;
     --cor-de-fundo: #00162E;
