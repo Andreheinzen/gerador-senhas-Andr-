@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
-</style>
-   
-body {
+
+    body {
       background-image: url('https://i.pinimg.com/1200x/1d/54/07/1d54079f1b647ce371053a9191b57e25.jpg'); /* Substitua pelo caminho da sua imagem */
       background-size: cover; /* Para que a imagem cubra todo o fundo */
       background-repeat: no-repeat; /* Para que a imagem não se repita */
